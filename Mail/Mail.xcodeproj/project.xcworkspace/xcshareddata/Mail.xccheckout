@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7A1EE161-D5AA-40DB-B7B4-98DF0B1CA6A8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Mail</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BC635165A8AC51572EDEED271860B792096E300C</key>
+		<string>https://github.com/wtksyjpy/C-Practise.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Mail/Mail.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BC635165A8AC51572EDEED271860B792096E300C</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wtksyjpy/C-Practise.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BC635165A8AC51572EDEED271860B792096E300C</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BC635165A8AC51572EDEED271860B792096E300C</string>
+			<key>IDESourceControlWCCName</key>
+			<string>C-Practise</string>
+		</dict>
+	</array>
+</dict>
+</plist>
